@@ -277,7 +277,7 @@ button {
 .banner_text {
     width: 100%;
     float: left;
-    font-size: 16px;
+    font-size: 20px;
     margin: 0px;
     color: #252525;
 }
@@ -373,12 +373,11 @@ button {
 }
 
 .health_text {
-    width: 700%;
-    float: left;
+    width: 100%;
+    /* float: left; */
     font-size: 16px;
     color: #252525;
     margin: 0px;
- 
     
 }
 
@@ -534,16 +533,18 @@ button {
 .knowledge_taital {
     width: 100%;
     float: left;
-    font-size: 40px;
-    color: #ffffff;
+    font-size: 45px;
+    font-weight: bold;
+    color: #FF9700;
+    text-align: center;
     font-weight: bold;
 }
 
 .knowledge_text {
     width: 100%;
     float: left;
-    font-size: 16px;
-    color: #ffffff;
+    font-size: 18px;
+    color: #000000;
     margin: 0px;
 }
 
@@ -617,7 +618,7 @@ button {
 }
 
 .daily_text {
-    width: 40%;
+    width: 50%;
     margin: 0 auto;
     text-align: center;
     font-weight: bold;
@@ -776,7 +777,7 @@ button {
 .client_text {
     width: 100%;
     float: left;
-    font-size: 16px;
+    font-size: 18px;
     color: #444443;
     text-align: center;
     margin: 0px;
